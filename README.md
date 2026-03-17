@@ -17,7 +17,7 @@
 
 * Arquitectura de software
 * Buenas prácticas (Clean Code, SOLID)
-* Seguridad con Spring Security & JWT
+* Microservicios
 * Optimización de bases de datos
 
 ---
@@ -27,22 +27,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,idea,vscode" />
 </p>
-
----
-
-## 📌 Proyectos destacados
-
-🔹 **Sistema de Gestión de Libros**
-✔ CRUD completo con Spring Boot
-✔ Manejo de entidades y relaciones con JPA/Hibernate
-✔ Integración con base de datos
-
-🔹 **Sistema de Autenticación con JWT**
-✔ Login seguro con Spring Security
-✔ Generación y validación de tokens
-✔ Manejo de roles y usuarios
-
-👉 *(Próximamente más proyectos enfocados en backend escalable)*
 
 ---
 
