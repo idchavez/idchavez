@@ -46,15 +46,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Objetivo profesional
 
 Mi objetivo es convertirme en un desarrollador sólido, aportando soluciones eficientes y escalables, mientras crezco profesionalmente dentro de un equipo de desarrollo.
