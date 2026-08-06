@@ -8,7 +8,7 @@
 🎓 Profesional graduado enfocado en el desarrollo de software
 💡 Apasionado por la tecnología y la mejora continua
 ☕ Especializándome en **Java y Spring Boot**
-📈 Actualmente fortaleciendo mis habilidades para ingresar al mundo laboral como desarrollador
+📈 Actualmente fortaleciendo mis habilidades como desarrollador
 🔍 Interesado en backend, APIs REST y buenas prácticas de desarrollo
 
 ---
@@ -42,5 +42,3 @@ Mi objetivo es convertirme en un desarrollador sólido, aportando soluciones efi
 💼 LinkedIn: https://www.linkedin.com/in/ivan-chavez-vargas/
 
 ---
-
-⭐ Gracias por visitar mi perfil
