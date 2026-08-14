@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Ivan</h1>
-<h3 align="center">💻 Desarrollador Java | En constante aprendizaje</h3>
+<h3 align="center">💻 Desarrollador Java | Software Developer</h3>
 
 ---
 
